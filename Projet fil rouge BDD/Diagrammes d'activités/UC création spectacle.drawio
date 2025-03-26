@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
+  <diagram name="Page-1" id="lW-tmhY_m9JiVLKgdr-E">
+    <mxGraphModel dx="1407" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="384" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="DRHzH8BzLrvunNtR7_3k-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-3" value="&lt;div&gt;Saisir identifiants&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="339" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="DRHzH8BzLrvunNtR7_3k-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461" y="180" as="targetPoint" />
+            <mxPoint x="471" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="533" y="290" />
+              <mxPoint x="533" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-8" value="&lt;div&gt;Non&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DRHzH8BzLrvunNtR7_3k-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.8033" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-5" value="Identifiants corrects ?" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;shape=rhombus;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="313.5" y="260" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.5" y="390" as="targetPoint" />
+            <mxPoint x="398.5" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRHzH8BzLrvunNtR7_3k-14" value="&lt;div&gt;Oui&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DRHzH8BzLrvunNtR7_3k-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-1" value="&lt;div&gt;Accéder au calendrier&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="J42jBIso8gIA2JD6DDTb-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-3" value="Sélectionner date" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="J42jBIso8gIA2JD6DDTb-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-5" value="Ajouter spectacle à cette date" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="J42jBIso8gIA2JD6DDTb-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-11" value="Afficher message &quot; Spectacle ajouté,&lt;br&gt;le (J-14) vous devrez sélectionner quels membres joueront. &quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="294.25" y="690" width="210.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="J42jBIso8gIA2JD6DDTb-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J42jBIso8gIA2JD6DDTb-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="385" y="880" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
